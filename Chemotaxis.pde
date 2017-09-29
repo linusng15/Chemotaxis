@@ -57,5 +57,6 @@
  		{
  			myY = myY + (int)(Math.random()*4)-1;
  		}
+ 			
  	}  
  }
